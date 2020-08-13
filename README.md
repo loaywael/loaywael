@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Facial Expression and Landmarks Detector End to End Deep Learning Network
+- 🌱 I’m currently learning Stereo Vision and 3D Reconstruction
+- 👯 I’m looking to collaborate on Computer Vision and Machine Learning Challenges
+- 🤔 I’m looking for help with finding an oppurtunity to study masters in related field in computer vision
+- 💬 Ask me about Image Processing, Machine Learning, Deep Learning, Object Recognition, Detection, and Segmentation
+- 📫 How to reach me: Pleased to connect on LinkedIn: https://www.linkedin.com/in/loaywael/
+  
