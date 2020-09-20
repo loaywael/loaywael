@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Facial Expression and Landmarks Detector End to End Deep Learning Network
+- 🔭 I’m currently open for a new opportunity to gain industry experience.
 - 🌱 I’m currently learning Stereo Vision Depth Estimation, and 3D Reconstruction
 - 👯 I’m looking to collaborate on Computer Vision and Machine Learning Challenges
 - 🤔 I’m looking for help with finding an oppurtunity to study masters in related field to computer vision
