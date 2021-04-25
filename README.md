@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently open for a new opportunity to gain industry experience.
-- 🌱 I’m currently learning Stereo Vision and 3D Reconstruction.
-- 👯 I’m looking to collaborate on Computer Vision and Machine Learning Challenges.
-- 🤔 I’m looking for help with selecting the thesis topic in self-driving cars industry.
+- 🌱 I’m currently learning 3D Object Detection.
 - 💬 Ask me about  Computer Vision, Perceptionm, Machine Learning, Deep Learning and Robotics.
 - 📫 How to reach me: Pleased to connect on LinkedIn: https://www.linkedin.com/in/loaywael/
   
