@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning 3D Object Detection.
-- 💬 Ask me about  Computer Vision, Perceptionm, Machine Learning, Deep Learning and Robotics.
+- 💬 Ask me about  Computer Vision, Robotics Perception, Machine Learning, and Deep Learning.
 - 📫 How to reach me: Pleased to connect on LinkedIn: https://www.linkedin.com/in/loaywael/
   
