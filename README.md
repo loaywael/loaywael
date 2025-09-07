@@ -64,9 +64,9 @@ With **5+ years of experience**, I design, optimize, and deploy **end-to-end com
 <!-- Frameworks -->
 <p><strong>🧰 Frameworks &amp; Tools</strong></p>  
 <p>
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="PyTorch" />
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />
+  <img width="12"/>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="PyTorch" />
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="TensorFlow" />
   <img width="12"/>
@@ -74,17 +74,19 @@ With **5+ years of experience**, I design, optimize, and deploy **end-to-end com
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" />
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="FastAPI" />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="Flask" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="CMake" />
 </p><br>
 <!-- Other Tools -->
 <p><strong>🧩 Other Tools</strong></p>  
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="CMake" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="25" alt="Jira" />
@@ -100,8 +102,6 @@ With **5+ years of experience**, I design, optimize, and deploy **end-to-end com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="25" alt="SQLite" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="25" alt="SSH" />
-  <img width="12"/>
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="25" alt="Ubuntu" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="25" alt="Sourcetree" />
   <img width="12"/>
