@@ -31,7 +31,6 @@ With **5+ years of experience**, I design, optimize, and deploy **end-to-end com
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=loaywael&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
-  <img width="150"/>
   <img src="https://streak-stats.demolab.com?user=loaywael&theme=dark&hide_border=true" height="150" alt="streak graph" />
 </div>
 <br>
